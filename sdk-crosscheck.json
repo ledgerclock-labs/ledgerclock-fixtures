@@ -1,0 +1,36 @@
+{
+  "sdk": "@stellar/stellar-sdk 17.3.0",
+  "kind": "synthetic fixture independent decoder cross-check; no network signature validation",
+  "results": [
+    {
+      "arm": 0,
+      "sdkType": "stellarValueBasic",
+      "roundtripMatches": true,
+      "timestampsMatch": true
+    },
+    {
+      "arm": 1,
+      "sdkType": "stellarValueSigned",
+      "roundtripMatches": true,
+      "timestampsMatch": true
+    },
+    {
+      "arm": 2,
+      "sdkType": "stellarValueEmptyTxSet",
+      "roundtripMatches": true,
+      "timestampsMatch": true
+    },
+    {
+      "arm": 3,
+      "sdkType": "stellarValueSignedMs",
+      "roundtripMatches": true,
+      "timestampsMatch": true
+    },
+    {
+      "arm": 4,
+      "sdkType": "stellarValueEmptyTxSetMs",
+      "roundtripMatches": true,
+      "timestampsMatch": true
+    }
+  ]
+}
