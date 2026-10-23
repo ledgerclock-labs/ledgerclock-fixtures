@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "provenance": "Observed public Horizon testnet ledger headers; retrieved 2026-10-23. SDK 17.3.0 extracts standalone StellarValue. No signature or consensus authenticity verification.",
+  "initialProtocol": 29,
+  "ledgers": [
+    {
+      "sequence": 5351480,
+      "protocol": 29,
+      "valueXdr": "tjQMb/AsPZJt7M0KoE1BSj4crksaOG3f7tk6p0qcpHEAAAAAatuquwAAAAAAAAABAAAAANVyadliUPdJbQeb4ug1Ejbv/+jTnC4Gv6uxQh8X/GccAAAAQKXtnnoR6cDjHvMB640D8EKUzhi8uQQU4ChGHrgQGGkgR/ga+3CZ22Ozpms9azC7Yff94JN9xs1BomWbCASMsws="
+    },
+    {
+      "sequence": 5351481,
+      "protocol": 29,
+      "valueXdr": "RXhSl0p0eXB18V/r43aHrVZcbzLPCF7q0C+6s5W0Ok4AAAAAatuqwAAAAAAAAAABAAAAANVyadliUPdJbQeb4ug1Ejbv/+jTnC4Gv6uxQh8X/GccAAAAQFK81qR1AqY/RxBoh/OhUpmA9N6Ci++qtfCbqCpVJk1zZlGVPZhx+b0eNpncHLn3qSz6xT8BzOIPbrU2/z8FdQI="
+    },
+    {
+      "sequence": 5351482,
+      "protocol": 29,
+      "valueXdr": "ER1Pf8N5Zjjxg/n/NHTZockgyhKyZwi3NuIZxxGzxowAAAAAatuqxQAAAAAAAAABAAAAALVdELK7fShO1cA6R6XhtZDJD1eDVUccxFB7voIE0jyLAAAAQOM3iOWHIhkHCAqsa1uOw3HeJ0OawmyA3k72/UI/AhhNmGw0FTySNPwL1xRLeOMqkSQ/x0MF+Sj0INffcClKOAE="
+    }
+  ],
+  "timeBounds": {
+    "minTime": "0",
+    "maxTime": "0"
+  }
+}

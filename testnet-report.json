@@ -1,0 +1,50 @@
+{
+  "source": "https://horizon-testnet.stellar.org/ledgers?order=desc&limit=3",
+  "schema": 1,
+  "inputSha256": "8dc88fbc5974acbbf9174dbae3ed1286878d415c783d16209e9974214ed1d296",
+  "provenance": "Observed public Horizon testnet ledger headers; retrieved 2026-10-23. SDK 17.3.0 extracts standalone StellarValue. No signature or consensus authenticity verification.",
+  "signatureVerified": false,
+  "findings": [],
+  "rows": [
+    {
+      "sequence": 5351480,
+      "protocol": 29,
+      "arm": 1,
+      "closeTime": "1792780987",
+      "closeTimeMs": null,
+      "effectiveMs": "1792780987000",
+      "precision": "second",
+      "empty": false,
+      "txSetHash": "b6340c6ff02c3d926deccd0aa04d414a3e1cae4b1a386ddfeed93aa74a9ca471",
+      "signatureVerified": false,
+      "timeBoundsValid": true
+    },
+    {
+      "sequence": 5351481,
+      "protocol": 29,
+      "arm": 1,
+      "closeTime": "1792780992",
+      "closeTimeMs": null,
+      "effectiveMs": "1792780992000",
+      "precision": "second",
+      "empty": false,
+      "txSetHash": "457852974a74797075f15febe37687ad565c6f32cf085eead02fbab395b43a4e",
+      "signatureVerified": false,
+      "timeBoundsValid": true
+    },
+    {
+      "sequence": 5351482,
+      "protocol": 29,
+      "arm": 1,
+      "closeTime": "1792780997",
+      "closeTimeMs": null,
+      "effectiveMs": "1792780997000",
+      "precision": "second",
+      "empty": false,
+      "txSetHash": "111d4f7fc3796638f183f9ff3474d9a1c920ca12b26708b736e219c711b3c68c",
+      "signatureVerified": false,
+      "timeBoundsValid": true
+    }
+  ],
+  "valid": true
+}
